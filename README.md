@@ -1,4 +1,4 @@
-# risc8
+# RISC8
 This is a risc-V inspired 8-bit CPU assembler and instruction set.
 
 ## Features 
