@@ -15,3 +15,4 @@
 - Instructions are 16-bit fixed format
 - Optional immediate operands for ALU & memory instructions
 - Flag writing instruction "CMP" for conditional jumps that doesn't write registers
+- Stack pointer is downwards growing
